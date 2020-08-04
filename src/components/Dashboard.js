@@ -103,10 +103,7 @@ class Dashboard extends Component {
                                         Logout
                                     </a>
                                 </li>
-                                                            </ul>
-                            {/* <form id="logout-form" action="https://demo.girofintech.com/logout" method="POST" style={{display: "none"}}>
-                                <input type="hidden" name="_token" value="bmtllkWokkMccfVAEegAFG8ZFyHt6ngDPeDo1WKe"> </input>                        
-                                 </form> */}
+                                </ul>
                         </div>
       </CardContent>
       <CardActions>
